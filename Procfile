@@ -1,1 +1,1 @@
-web: gunicorn proyectoUTDjango.wsgi
+web: gunicorn proyectoUTDdjango.wsgi
